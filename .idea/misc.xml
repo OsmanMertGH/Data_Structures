@@ -5,10 +5,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/dsa-01-AlgorithmAnalysis/pom.xml" />
+        <option value="$PROJECT_DIR$/dsa-02-Arrays/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
